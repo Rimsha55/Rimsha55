@@ -7,7 +7,7 @@ HI , My name is Rimsha Noor I'm under graduated software eng, I'm a self-taught 
 <b>Frontend</b>: HTML5, CSS3,saas,js Bootstrap<br>
 <b>API</b>: Django REST API<br>
 <b>Experimenting</B>: Django,python<br>
-<b>Tools</b>: Docker, Git, Github, Bitbucket
+
 
 <!--
 **Rimsha55/Rimsha55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

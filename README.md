@@ -1,5 +1,5 @@
 ### Hi there 👋
-HI , My name is Rimsha Noor I'm under graduated software eng, I'm a self-taught Python/Django Developer. I've profound knowledge in Django Framework,
+HI , My name is Rimsha Noor I'm  graduated software eng, I'm a self-taught Python/Django Developer. I've profound knowledge in Django Framework,
  I'm interested in doing research on text and image related problems. I love to work with new technologies and playing with Data and AI.<br>
 ### My Stack
 <b>Languages</b>: Python,  recently started learning JavaScript <br>
